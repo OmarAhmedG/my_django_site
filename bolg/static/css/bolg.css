@@ -6,7 +6,6 @@
 .page-header h1, .page-header h1 a {
     color: #ffffff;
     font-size: 36pt;
-    text-size: 36pt;
     text-decoration-line: none;
 }
 
@@ -29,4 +28,12 @@ h1, h2, h3, h4 {
 
 .post h1 a {
     color: black;
+}
+
+.post-form-blog textarea {
+    width:100%;
+}
+
+.post-form-blog .btn-primary {
+    float: right;
 }
